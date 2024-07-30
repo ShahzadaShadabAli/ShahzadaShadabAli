@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hayyat+Hussain;+Web+Developer,+Amateur+Author;+Over+2+years+of+programming+experience;Always+learning+new+things+;Frontend+Mentor+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shahzada+Shadab+Ali;+Web+Developer,+Novice+Author;+Over+2+years+of+programming+experience;Always+learning+new+things+;FullStack+Developer+Perfectionist+enthusiast;+A+Devotee+to+Progress)](https://git.io/typing-svg)
 ======================================================================================================================================
 
 
