@@ -8,7 +8,7 @@ Hi 👋 My name is Shahzada Shadab Ali
 A Devotee to Progress
 ---------------------
 
-* 🌍  I'm based in Islamabad
+* 🌍  I'm based in Skardu
 * ✉️  You can contact me at [shadabshahzada8@gmail.com](mailto:shadabshahzada8@gmail.com)
 
 ### Skills
